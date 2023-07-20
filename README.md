@@ -22,7 +22,9 @@ npm run dev
 ## 📌 Helpful links
 
 <ul>
-<li> React js [State](https://react.dev/learn/state-a-components-memory) </li>
-<li> Vite [Guide](https://vitejs.dev/guide/) </li>
-<li> Bootstrap [docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) </li>
+
+ React js [State](https://react.dev/learn/state-a-components-memory) 
+ Vite [Guide](https://vitejs.dev/guide/) 
+ Bootstrap [docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) 
+ 
 </ul>
