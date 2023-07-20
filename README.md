@@ -4,7 +4,7 @@
 
 Todo-list App using React CSS is created using Tailwind CSS. The entire React app is running on the Vite.
 
-<br>
+
 
 ## 🚀 Tech stack
 
@@ -13,7 +13,6 @@ Vite
 Redux
 Tailwind css
 
-<br>
 
 ## 📦 Installation
 
