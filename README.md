@@ -10,8 +10,7 @@ Todo-list App created using React. The entire React app is running on the Vite.
 
 - React js
 - Vite
-- Redux
-- Tailwind css
+- Bootstrap
 
 
 ## 📦 Installation
