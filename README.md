@@ -1,7 +1,22 @@
+CRUD Redux App
+📄 Project description
+CRUD App using Redux (@reduxjs/toolkit and react-redux). CSS is created using Tailwind CSS. The entire React app is running on the Vite.
 
-# Todo-list
-This project is a simple web application to manage to-dos.
+🚀 Tech stack
+React js
+Vite
+Redux
+Tailwind css
+📦 Installation
+Install dependencies
 
-# Set up
-Clone this project running git clone [https://github.com/JheremeiArciaga/todo-list.git] in your terminal. If you haven't git installed can simply download it and unzip it.
+npm install
+Run development server
 
+npm run dev
+📌 Helpful links
+React js Ref
+Vite Guide
+Redux React Redux
+Redux Redux Toolkit
+Tailwind css Docs
