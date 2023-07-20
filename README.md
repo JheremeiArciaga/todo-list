@@ -20,7 +20,10 @@ Install dependencies
 ```
 npm install
 ```
-
+or
+```
+npm install vite@latest
+```
 Run development server
 ```
 npm run dev
