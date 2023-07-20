@@ -1,24 +1,24 @@
-todo-list app
-<br>
+## Todo-List App
+
 ### 📄 Project description
-CRUD App using Redux (@reduxjs/toolkit and react-redux). CSS is created using Tailwind CSS. The entire React app is running on the Vite.
+Todo-list App using React CSS is created using Tailwind CSS. The entire React app is running on the Vite.
 
 ### 🚀 Tech stack
 React js
 Vite
 Redux
 Tailwind css
+
 ### 📦 Installation
-
-Install dependencies
-
+###Install dependencies
 npm install
 
-Run development server
-
+### Run development server
 npm run dev
 
-📌 Helpful links
-React js Ref
-Vite Guide
-Tailwind css Docs
+### 📌 Helpful links
+<li>
+React js [State](https://react.dev/learn/state-a-components-memory)
+Vite [Guide](https://vitejs.dev/guide/)
+Bootstrap [docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+</li>
